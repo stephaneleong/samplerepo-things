@@ -1,4 +1,5 @@
 apples
 berries
 cherries
+oranges
 CS2103 is okay
